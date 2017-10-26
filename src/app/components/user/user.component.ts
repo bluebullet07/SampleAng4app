@@ -31,7 +31,7 @@ this.name = 'Archana';
     this.hobbies = ['listen to music','watch movies','cooking'];
     }
     onClick(){
-      this.name = 'Kesavan';
+      this.name = 'Madhavan';
       this.hobbies.push('new hobby');
     }    
 
